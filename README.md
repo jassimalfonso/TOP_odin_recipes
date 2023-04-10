@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 HTML project from The Odin Project
 
-Create a recipies page structure
+Create a recipes page structure
