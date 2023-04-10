@@ -1,2 +1,4 @@
 # odin-recipies
-html project from top
+HTML project from The Odin Project
+
+Create a recipies page structure
